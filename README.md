@@ -1,4 +1,4 @@
-# Digital Invitation — Setup
+ # Digital Invitation — Setup
 
 Plain HTML/CSS/JS, no build step. Drop this repo on GitHub Pages and it works.
 
