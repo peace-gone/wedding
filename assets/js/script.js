@@ -13,12 +13,6 @@ function toggleInvitation() {
     bgMusic.play().catch(error => {
       console.log("Audio playback failed:", error);
     });
-
-    // Automatically scroll to the next frame
-    mainFrame.scrollTo({
-      top: mainFrame.clientHeight,
-      behavior: 'smooth'
-    });
   } else {
     // Pause Playing
     isPlaying = false;
