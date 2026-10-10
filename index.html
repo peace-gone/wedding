@@ -8,12 +8,27 @@
 </head>
 <body class="is-entering">
 
-  <main class="frame" id="frame1">
-    <div class="frame__art">
-      <img class="frame__bg" id="frameImg" src="assets/images/frame1-play.png" alt="">
-      <button class="taparea" id="playBtn" aria-label="Play"></button>
+  <main class="frame scroll-container" id="mainFrame" style="overflow-y: hidden;">
+    <!-- First frame (Play/Pause) -->
+    <div class="frame__art scroll-section" id="frameTap" role="button" tabindex="0" aria-label="Play">
+      <img class="frame__bg" id="frameImg" src="assets/images/frame1-play.png" alt="Play Invitation">
+    </div>
+
+    <!-- Event frames -->
+    <div class="frame__art scroll-section">
+      <img class="frame__bg" src="assets/images/varmala.png" alt="Varmala Event">
+    </div>
+    <div class="frame__art scroll-section">
+      <img class="frame__bg" src="assets/images/reception.png" alt="Reception Event">
+    </div>
+    <div class="frame__art scroll-section">
+      <img class="frame__bg" src="assets/images/phera.png" alt="Phera Event">
     </div>
   </main>
+
+  <audio id="bgMusic" loop>
+    <source src="assets/audio/music.mp3" type="audio/mpeg">
+  </audio>
 
   <script src="assets/js/fade-in.js"></script>
   <script src="assets/js/script.js"></script>

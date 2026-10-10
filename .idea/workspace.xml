@@ -4,21 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53db6f2b-e47d-4871-92c7-e83efff0475f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/frame1-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pause-button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/play-button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="53db6f2b-e47d-4871-92c7-e83efff0475f" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/assets/images/frame1-pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/frame2-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/phera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/reception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/varmala.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/events/Gemini_Generated_Image_30svqw30svqw30sv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/events/Gemini_Generated_Image_31ct7p31ct7p31ct.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/events/Gemini_Generated_Image_5xsvny5xsvny5xsv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/events/Gemini_Generated_Image_7ycq7u7ycq7u7ycq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/events/Gemini_Generated_Image_dxupq6dxupq6dxup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/events/Gemini_Generated_Image_k4k0pmk4k0pmk4k0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/events/Gemini_Generated_Image_x5mdahx5mdahx5md.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/play_shushi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/playing_shushi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/frame1-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/frame1-play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,63 +30,75 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "peace-gone"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/peace-gone/wedding.git",
+    "accountId": "0224c182-6adb-4a69-9db6-c3b681045df7"
+  }
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3309136903818588" />
-      <entry key="MS500" value="2.223049631049894" />
-      <entry key="S2" value="4.00225935611932" />
-      <entry key="S5" value="5.006837636901035" />
-      <entry key="S10" value="5.4621877991631385" />
-      <entry key="S30" value="5.812725507832994" />
-      <entry key="S60" value="6.162862666917034" />
-      <entry key="M2" value="8.777805079423366" />
-      <entry key="M5" value="17.866542109557642" />
-      <entry key="M10" value="25.183779696950346" />
-      <entry key="M15" value="28.51240528728689" />
-      <entry key="M30" value="32.417769159990286" />
-      <entry key="H1" value="34.61737152549042" />
-      <entry key="H2" value="35.78488270190207" />
-      <entry key="H4" value="36.38637089326346" />
-      <entry key="D1" value="36.902000359621056" />
-      <entry key="W1" value="38.855647980853924" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000018" />
+      <entry key="S2" value="1.0006738965032773" />
+      <entry key="S5" value="1.154909730342887" />
+      <entry key="S10" value="1.9607805943741539" />
+      <entry key="S30" value="4.25685942183782" />
+      <entry key="S60" value="5.61309171577901" />
+      <entry key="M2" value="8.594352162490242" />
+      <entry key="M5" value="17.860965009052542" />
+      <entry key="M10" value="25.46481136412801" />
+      <entry key="M15" value="28.96712534838443" />
+      <entry key="M30" value="33.10628910652249" />
+      <entry key="H1" value="35.450662851603106" />
+      <entry key="H2" value="36.698613154323304" />
+      <entry key="H4" value="37.34248462503525" />
+      <entry key="D1" value="37.89457859921706" />
+      <entry key="W1" value="39.85453150181478" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="5.262193122101049E-255" />
-      <entry key="S2" value="2.693343191458107E-64" />
-      <entry key="S5" value="3.733504492617408E-26" />
-      <entry key="S10" value="1.9322278573236146E-13" />
-      <entry key="S30" value="5.781219333559639E-5" />
-      <entry key="S60" value="0.007603432996719073" />
-      <entry key="M2" value="0.08719766623436123" />
-      <entry key="M5" value="0.3768790049903421" />
-      <entry key="M10" value="0.6139047197980665" />
-      <entry key="M15" value="0.7223272208841307" />
-      <entry key="M30" value="0.8498983591489816" />
-      <entry key="H1" value="0.9218993215904776" />
-      <entry key="H2" value="0.9601558840055489" />
-      <entry key="H4" value="0.9798754431077182" />
-      <entry key="D1" value="0.9966174314412116" />
-      <entry key="W1" value="0.9995160739332253" />
+      <entry key="MS500" value="4.229788772071617E-270" />
+      <entry key="S2" value="4.535024838093614E-68" />
+      <entry key="S5" value="1.1551326728127975E-27" />
+      <entry key="S10" value="3.398724279509588E-14" />
+      <entry key="S30" value="3.2392065702813576E-5" />
+      <entry key="S60" value="0.005691402788664107" />
+      <entry key="M2" value="0.07544138644447156" />
+      <entry key="M5" value="0.35566723973909625" />
+      <entry key="M10" value="0.5963784366818579" />
+      <entry key="M15" value="0.7085132147032177" />
+      <entry key="M30" value="0.8417322702042606" />
+      <entry key="H1" value="0.9174596831492171" />
+      <entry key="H2" value="0.9578411575774014" />
+      <entry key="H4" value="0.978693597392667" />
+      <entry key="D1" value="0.9964169909307103" />
+      <entry key="W1" value="0.9994873538164901" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2523652560768324" />
-      <entry key="MS500" value="2.181800717243128" />
-      <entry key="S2" value="3.9781473714525615" />
-      <entry key="S5" value="4.9946256073381265" />
-      <entry key="S10" value="5.455534915727978" />
-      <entry key="S30" value="5.810424499335242" />
-      <entry key="S60" value="6.168932637578115" />
-      <entry key="M2" value="8.862503384914866" />
-      <entry key="M5" value="18.239940005550405" />
-      <entry key="M10" value="25.794935513469266" />
-      <entry key="M15" value="29.232593136023972" />
-      <entry key="M30" value="33.26641757989345" />
-      <entry key="H1" value="35.53859505581764" />
-      <entry key="H2" value="36.744687194701676" />
-      <entry key="H4" value="37.36606716336395" />
-      <entry key="D1" value="37.89858743427645" />
-      <entry key="W1" value="39.85515956912877" />
+      <entry key="MS100" value="0.9075191553171609" />
+      <entry key="MS500" value="0.9807790039885531" />
+      <entry key="S2" value="0.9958295583710411" />
+      <entry key="S5" value="1.152592964654713" />
+      <entry key="S10" value="1.9586404390323173" />
+      <entry key="S30" value="4.255246754630456" />
+      <entry key="S60" value="5.617473553715666" />
+      <entry key="M2" value="8.66755029643039" />
+      <entry key="M5" value="18.213314719637015" />
+      <entry key="M10" value="26.058503202296574" />
+      <entry key="M15" value="29.673529322714995" />
+      <entry key="M30" value="33.946778056157484" />
+      <entry key="H1" value="36.36744730236341" />
+      <entry key="H2" value="37.656102420037044" />
+      <entry key="H4" value="38.320998591631664" />
+      <entry key="D1" value="38.89096512715183" />
+      <entry key="W1" value="40.854014354056716" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -142,9 +156,22 @@
       <option name="presentableId" value="Default" />
       <updated>1790330113522</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1791642867929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791642867929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
